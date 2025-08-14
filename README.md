@@ -2,6 +2,6 @@
 
 reads smart data via ioctl
 
-`g++ smart.cpp && ./a.out /dev/sda`
+look at main.cpp for refrence
 
 returns attribute data. no names because they're vendor specific anyway.
